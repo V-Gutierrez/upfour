@@ -16,7 +16,7 @@ body {
         opacity: 0;
         height: 0;
     }
-    
+
     to {
         opacity: 1;
         height: 100%;
@@ -109,7 +109,7 @@ button:focus {
 /* Modais */
 
 
-.modal li{
+.modal li {
     margin: 15px 0;
 }
 
@@ -282,7 +282,7 @@ footer h4 {
     align-items: center;
     margin-top: 50px;
     margin-bottom: 50px;
-    }
+}
 
 .footerprops {
     display: flex;
@@ -458,7 +458,7 @@ footer h4 {
             padding: 15px;
         }
 
-        
+
         /* footer */
 
         footer {
@@ -470,7 +470,7 @@ footer h4 {
         }
 
         .footerprops:first-of-type {
-            flex-direction: row;            
+            flex-direction: row;
             width: 50%;
             justify-content: space-between;
         }
